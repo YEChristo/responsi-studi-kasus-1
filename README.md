@@ -1,8 +1,8 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
+Nama : [Yosep Engelbert Christo]  
+NIU : [446788]  
+Sesi : [Rabu]  
 Secret String : [SECRET_STRING]
 
 ## Checklist Responsi
